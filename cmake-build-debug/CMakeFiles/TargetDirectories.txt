@@ -1,0 +1,4 @@
+/home/mg/NetworkProgramming/smtn/cmake-build-debug/CMakeFiles/server.dir
+/home/mg/NetworkProgramming/smtn/cmake-build-debug/CMakeFiles/client.dir
+/home/mg/NetworkProgramming/smtn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mg/NetworkProgramming/smtn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
